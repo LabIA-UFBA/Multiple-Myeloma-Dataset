@@ -18,7 +18,8 @@ The organization of this repository is:
 
 > - **/data** - contains images wit labeled cells
 >
->   - `mieloma.zip`: all images
+>   - `myeloma_dataset.zip`: all images and labels
+>   -  `myeloma_dataset_conf_fold_1.zip`: example of organizing the test fold
 >   -  `10_fold.csv`:  splitting of training, testing and validation data into the 10 folds
 > - **/src** - contains source codes created to train and assess the DNN model used to identify Plasma cells
 > - **/docker** - contains docker images used to reproduce our experiments
