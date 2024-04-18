@@ -1,0 +1,9 @@
+train: /home/marcos/projects/yolov7-mieloma/fold_9/train/images  # 118287 images
+val: /home/marcos/projects/yolov7-mieloma/fold_9/val/images  # 5000 images
+test: /home/marcos/projects/yolov7-mieloma/fold_9/test/images
+
+# number of classes
+nc: 1
+
+# class names
+names: ["PLASMOCITO"]

@@ -17,15 +17,14 @@ Here you will find all codes, models, and data used in the manuscript “Enhanci
 The organization of this repository is:
 
 > - **/data** - contains images wit labeled cells
->
->   - `myeloma_dataset.zip`: all images and labels
+>  - `myeloma_dataset.zip`: all images and labels
 >   -  `myeloma_dataset_conf_fold_1.zip`: example of organizing the test fold
 >   -  `10_fold.csv`:  splitting of training, testing and validation data into the 10 folds
 > - **/src** - contains source codes created to train and assess the DNN model used to identify Plasma cells
-> - **/docker** - contains docker images used to reproduce our experiments
 > - **/noteboks** - contains Python notebooks used to visualize imagens and reproduce our findings
 > - **/models** - contains frozen models used to detect plasma cells in our images
 >   If you find any issues with the code, please contact us: ricardoar@ufba.br.
 
 On the behalf of all of the authors, we appreciate your interest in our data, code and models, and hope they are useful to your research.
 
+DNN model used: [Yolo v7](https://github.com/WongKinYiu/yolov7/tree/main)
