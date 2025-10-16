@@ -12,7 +12,9 @@ The following image shows an example of our dataset. This image contains a set o
 
 <center><img src="figures/boundingboxes.png" width=500px/></center>
 
-Here you will find all codes, models, and data used in the manuscript “Enhancing Diagnostic Accuracy of Multiple Myeloma through ML-Driven Analysis of Hematological Slides: New dataset and identification model to support hematologists” (Journal, 2024). URL: (https://www.nature.com/articles/s41598-024-61420-9).
+Here you will find all codes, models, and data used in the manuscript:
+
+> ANDRADE, Caio LB et al. Enhancing diagnostic accuracy of multiple myeloma through ML-driven analysis of hematological slides: new dataset and identification model to support hematologists. Scientific Reports, v. 14, n. 1, p. 11176, 2024. URL: (https://www.nature.com/articles/s41598-024-61420-9).
 
 The organization of this repository is:
 
