@@ -28,3 +28,21 @@ The organization of this repository is:
 On the behalf of all of the authors, we appreciate your interest in our data, code and models, and hope they are useful to your research.
 
 DNN model used: [Yolo v7](https://github.com/WongKinYiu/yolov7/tree/main)
+
+##  📝 Citation
+
+If you find the dataset useful for your research, please consider citing:
+
+
+
+```latex
+@article{andrade2024enhancing,
+  title={Enhancing diagnostic accuracy of multiple myeloma through ML-driven analysis of hematological slides: new dataset and identification model to support hematologists},
+  author={Andrade, Caio LB and Ferreira, Marcos V and Alencar, Brenno M and Junior, Ariel MA and Lopes, Tiago JS and Dos Santos, Allan S and Dos Santos, Mariane M and Silva, Maria ICS and Rosa, Izabela MDRP and Filho, Jorge LSB and others},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={11176},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
